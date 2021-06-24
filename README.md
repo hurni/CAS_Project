@@ -1,6 +1,11 @@
-# CAS_Project
+# CAS_Project - Small project for CAS ADS 2020 Module 1 and 2
 
-Small project for CAS ADS 2020: Correlating financial and covid data in the Top-10 most important financial markets.
+Collaboration with Nico Kaiser and Pascal Neiger.
+
+Version: 1.0
+  1.0: Handed in for the Module
+
+Goal: Proof of concept - How to correlate financial and covid data in the Top-10 most important financial markets.
 
 General File Information
 
@@ -27,3 +32,10 @@ Methodological Information
 - NaN were interpolated using the interpolate method of pandas
 	- Exception: SSE Composite needs manual setting of "Adj Close" at date "2019-10-01" to 2927.92	 in order for interpolate to work properly (no trading on that day)
 - More detailled information regarding methodology can be found in the Jupyter notebooks in the corresponding github repository.
+
+
+
+
+Gaal: Classification of butterflies using ML.
+**Dataset:** http://www.josiahwang.com/dataset/leedsbutterfly/leedsbutterfly_dataset_v1.0.zip
+
